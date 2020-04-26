@@ -5,15 +5,15 @@ This project used steam game review data to predict user suggestions (binary var
 
 ## Dataset description: 
 1. train data features: 
-    1) review_id: unique user id
-    2) title: game title
-    3) year: release year
-    4) user_review: user comments
-    5) user_suggestion: binary data with 0 (not recommend) or 1 (recommend)
+   - review_id: unique user id
+   - title: game title
+   - year: release year
+   - user_review: user comments
+   - user_suggestion: binary data with 0 (not recommend) or 1 (recommend)
 2. test data
 3. game overview features: 
-    1) title: game title
-    2) developer: game developer
-    3) publisher: game publisher
-    4) tags: game tags to represent its type or features
-    5) overview: game introduction
+   - title: game title
+   - developer: game developer
+   - publisher: game publisher
+   - tags: game tags to represent its type or features
+   - overview: game introduction
