@@ -25,4 +25,14 @@ This project used steam game review data to predict user suggestions (binary var
 4. predictive / classification models: SVM and logistic regression
 
 ## Results: 
-1. 
+EDA: 
+
+    1) Most games had title length of 17.
+    
+    2) Most games in the dataset were released in 2018.
+    
+    3) Valve had most published or developed games in the dataset.
+
+Predictive model: 
+
+    1) The logistic regression (84%) overperformed SVM (57%) when evaluating in-sample accuracy. 
