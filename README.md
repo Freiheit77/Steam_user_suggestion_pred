@@ -17,3 +17,12 @@ This project used steam game review data to predict user suggestions (binary var
    - publisher: game publisher
    - tags: game tags to represent its type or features
    - overview: game introduction
+
+## Machine learning techniques: 
+1. natural language processing: word tokenization (nltk)
+2. sentiment analysis: review scoring as negative, netural, and positive
+3. word embedding: word2vec (considering the word context)
+4. predictive / classification models: SVM and logistic regression
+
+## Results: 
+1. 
